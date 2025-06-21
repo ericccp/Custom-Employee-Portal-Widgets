@@ -1,16 +1,40 @@
-# 🧩 Custom Employee Center Portal Widgets
+# 📌 Custom Employee Center Portal Widgets
 
 Custom ServiceNow widgets for the Employee Center Portal that provide employees with an intuitive interface to view and manage their assigned devices and software licenses.
 
 ---
 
-## 📌 Overview
+## 💼 Use Case
 
-This project contains custom-developed widgets designed to enhance the user experience in ServiceNow’s Employee Center by:
+Employees often need to view and manage the hardware and software assets assigned to them, especially for tasks like audits, troubleshooting, or onboarding/offboarding processes. However, the default ServiceNow experience provides limited visibility into this data from the employee perspective.
 
-- Displaying assigned hardware and software assets
-- Allowing asset verification through dynamic forms
-- Providing future expandability for detailed lifecycle management
+This project introduces a custom set of ServiceNow widgets tailored for the Employee Center Portal, giving employees a centralized, self-service view of:
+
+- Assigned devices (e.g., laptops, phones)
+- Active software entitlements
+- Verification actions (e.g., confirming possession of equipment)
+
+---
+
+## 📈 Business Value
+
+By enhancing visibility and self-service access to assigned assets, this solution:
+
+- **Reduces IT workload** by minimizing asset lookup and verification requests
+- **Improves audit readiness** with verified device ownership history
+- **Enhances user experience** with a clean, interactive UI tailored to employee needs
+- **Supports compliance efforts** by proactively prompting users to confirm asset possession
+
+---
+
+## 🗺️ Strategic Roadmap Alignment
+
+This enhancement aligns with the organization's broader IT goals by:
+
+- **Advancing the digital workplace initiative** through improved self-service capabilities
+- **Supporting IT Asset Management (ITAM)** goals with verified, real-time asset records
+- **Improving service transparency** and empowering employees with relevant data
+- **Laying the groundwork** for future automation like lifecycle alerts, warranty tracking, and upgrade recommendations
 
 ---
 
